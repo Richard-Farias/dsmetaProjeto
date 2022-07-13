@@ -1,0 +1,16 @@
+.dsmeta-red-btn{
+    height: 45px;
+    width: 45px;
+    background-color: rgb(5, 4, 5);
+    border: 1px solid rgb(177, 118, 233) ;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.dsmeta-red-btn img {
+    width: 19px;
+
+}
